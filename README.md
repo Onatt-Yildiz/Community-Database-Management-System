@@ -33,7 +33,7 @@ This project was created to digitize the administrative workflow of a student cl
 
 Below is the Entity-Relationship (ER) Diagram of the system:
 
-![ER Diagram](https://placehold.co/600x400?text=Please+Upload+Your+ER+Diagram+Image)
+<img width="904" height="375" alt="image" src="https://github.com/user-attachments/assets/dd9470a3-ffe6-4a62-9e2d-86b4d9471999" />
 
 ## 🚀 Installation & Usage
 
